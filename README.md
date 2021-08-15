@@ -1,1 +1,14 @@
-[![Daniel Simkus' GitHub Banner](./assets/banner.png)](https://twitter.com/danielsimkus)
+[![Daniel Simkus' GitHub Banner](./assets/banner.png)](https://twitter.com/DanielSimkus)
+
+[![Visits Badge](https://badges.pufler.dev/visits/danielsimkus/danielsimkus)](https:braydoncoyer.dev)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/DanielSimkus)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/danny-simkus-458970a3/)
+
+![](https://img.shields.io/badge/Code-Php-informational?style=flat&logo=PHP&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-IntertiaJs-informational?style=flat&logo=inertiajs&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
