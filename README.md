@@ -7,6 +7,7 @@
 ![](https://img.shields.io/badge/Code-Php-informational?style=flat&logo=PHP&logoColor=white&color=5171ff)
 ![](https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=5171ff)
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=5171ff)
+![](https://img.shields.io/badge/Code-VueJS-informational?style=flat&logo=vuejs&logoColor=white&color=5171ff)
 ![](https://img.shields.io/badge/Code-IntertiaJs-informational?style=flat&logo=inertiajs&logoColor=white&color=5171ff)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=5171ff)
 
