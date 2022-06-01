@@ -12,6 +12,7 @@
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=5171ff)
 
 ![](https://img.shields.io/badge/Server-Terraform-informational?style=flat&logo=terraform&logoColor=white&color=5171ff)
+![](https://img.shields.io/badge/Server-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=5171ff)
 ![](https://img.shields.io/badge/Server-AWS-informational?style=flat&logo=amazon&logoColor=white&color=5171ff)
 ![](https://img.shields.io/badge/Server-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=5171ff)
 ![](https://img.shields.io/badge/Server-Ansible-informational?style=flat&logo=ansible&logoColor=white&color=5171ff)
